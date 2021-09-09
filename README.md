@@ -2,8 +2,6 @@
 
 ![HenryCg99 GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryCg99&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCg99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Tecnologias mais utilizadas:
 
